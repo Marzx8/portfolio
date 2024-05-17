@@ -107,31 +107,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Olivia's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of Now Technologies",
   },
   {
     quote:
-      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Olivia's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Olivia is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of Now Technologies",
   },
   {
     quote:
-      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Olivia's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Olvia is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of Now Technologies",
   },
   {
     quote:
-      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Olivia's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Olivia is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of Now Technologies",
   },
   {
     quote:
-      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Olivia was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Olivia's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Olivia is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of Now Technologies",
   },
